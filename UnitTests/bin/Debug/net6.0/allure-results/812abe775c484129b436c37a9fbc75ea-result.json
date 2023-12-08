@@ -1,0 +1,60 @@
+{
+  "uuid": "6af4307a-c7e2-4f75-9da7-959dfe77bf94",
+  "historyId": "f3d3d6db0492dcdb4009487110a26fa3",
+  "testCaseId": "de9b7563c5c0a527f4d274589dd0bf50",
+  "fullName": "UnitTests:UnitTestsBL.ThingServicesUnitTests.TestGetAllThing()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.ThingServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.ThingServicesUnitTests.TestGetAllThing"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.ThingServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Thing Services Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.ThingServicesUnitTests.TestGetAllThing",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.All() Failure: 1 out of 3 items in the collection did not pass.\r\n[2]: Item: Models.Thing\r\n     Xunit.Sdk.InRangeException: Assert.InRange() Failure\r\n     Range:  (1 - 2)\r\n     Actual: 3\r\n        at Xunit.Assert.InRange[T](T actual, T low, T high, IComparer`1 comparer) in /_/src/xunit.assert/Asserts/RangeAsserts.cs:line 46\r\n        at Xunit.Assert.InRange[T](T actual, T low, T high) in /_/src/xunit.assert/Asserts/RangeAsserts.cs:line 29\r\n        at UnitTestsBL.ThingServicesUnitTests.<>c.<TestGetAllThing>b__8_2(Thing item) in C:\\Users\\joker\\Desktop\\src\\UnitTestsBL\\UnitTestsBL\\ThingServicesUnitTests.cs:line 79\r\n        at Xunit.Assert.<>c__DisplayClass11_0`1.<All>b__0(T item, Int32 index) in /_/src/xunit.assert/Asserts/CollectionAsserts.cs:line 34\r\n        at Xunit.Assert.All[T](IEnumerable`1 collection, Action`2 action) in /_/src/xunit.assert/Asserts/CollectionAsserts.cs:line 61",
+    "trace": "   at Xunit.Assert.All[T](IEnumerable`1 collection, Action`2 action) in /_/src/xunit.assert/Asserts/CollectionAsserts.cs:line 76\r\n   at Xunit.Assert.All[T](IEnumerable`1 collection, Action`1 action) in /_/src/xunit.assert/Asserts/CollectionAsserts.cs:line 34\r\n   at UnitTestsBL.ThingServicesUnitTests.TestGetAllThing() in C:\\Users\\joker\\Desktop\\src\\UnitTestsBL\\UnitTestsBL\\ThingServicesUnitTests.cs:line 79\r\n   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)\r\n   at Xunit.Sdk.AsyncTestSyncContext.<>c__DisplayClass7_0.<Post>b__1(Object _) in /_/src/xunit.execution/Sdk/AsyncTestSyncContext.cs:line 75"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701580470799,
+  "stop": 1701580470895
+}

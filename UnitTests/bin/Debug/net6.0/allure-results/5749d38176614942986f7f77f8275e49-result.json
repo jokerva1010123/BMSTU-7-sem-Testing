@@ -1,0 +1,59 @@
+{
+  "uuid": "5c364bc9-53eb-4840-8eed-c4ce7f1a8d9c",
+  "historyId": "294b8c97d96df8a9f4702b214f7f49e1",
+  "testCaseId": "71af554f1ff4ea5c9a0500fbd225a68d",
+  "fullName": "UnitTests:UnitTestsDA.RoomDAUnitTests.TestGetRoom()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsDA.RoomDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsDA.RoomDAUnitTests.TestGetRoom"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsDA.RoomDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Room DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsDA.RoomDAUnitTests.TestGetRoom",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701586722927,
+  "stop": 1701586723077
+}

@@ -1,0 +1,60 @@
+{
+  "uuid": "1020cbf1-3358-491b-b5e5-e61bae613540",
+  "historyId": "3728098c499bb7ee45498d6f4139f45f",
+  "testCaseId": "64720d19d410fcb56aad9b79eaa8e158",
+  "fullName": "UnitTests:UnitTestsDA.StudentDAUnitTests.TestGetStudentByCode()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsDA.StudentDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsDA.StudentDAUnitTests.TestGetStudentByCode"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsDA.StudentDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsDA.StudentDAUnitTests.TestGetStudentByCode",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.NotNull() Failure",
+    "trace": "   at Xunit.Assert.NotNull(Object object) in /_/src/xunit.assert/Asserts/NullAsserts.cs:line 29\r\n   at UnitTestsDA.StudentDAUnitTests.TestGetStudentByCode() in C:\\Users\\joker\\Desktop\\src\\UnitTestsBL\\UnitTestsDA\\StudentDAUnitTests.cs:line 36\r\n   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)\r\n   at Xunit.Sdk.AsyncTestSyncContext.<>c__DisplayClass7_0.<Post>b__1(Object _) in /_/src/xunit.execution/Sdk/AsyncTestSyncContext.cs:line 75"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701588740721,
+  "stop": 1701588740886
+}

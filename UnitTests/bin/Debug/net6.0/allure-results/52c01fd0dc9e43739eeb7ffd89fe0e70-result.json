@@ -1,0 +1,59 @@
+{
+  "uuid": "0234b40e-03ee-43d3-a756-6e835c1e8fcd",
+  "historyId": "7e0a2910a7b34e642839cb8031ab19e9",
+  "testCaseId": "d5d288a252fefa8c417fec2a2a34a96a",
+  "fullName": "UnitTests:UnitTestsBL.StudentServicesUnitTests.TestGetAllStudent()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.StudentServicesUnitTests.TestGetAllStudent"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Services Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.StudentServicesUnitTests.TestGetAllStudent",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701578425566,
+  "stop": 1701578425570
+}

@@ -1,0 +1,60 @@
+{
+  "uuid": "bc5cc628-8f04-4533-80ce-a847880fc295",
+  "historyId": "61f5d9452116deb688598f8c2a882590",
+  "testCaseId": "c135bf4d62a8b312be571ecaefcd0881",
+  "fullName": "UnitTests:UnitTestsBL.StudentServicesUnitTests.TestSetRoomStudent()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.StudentServicesUnitTests.TestSetRoomStudent"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Services Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.StudentServicesUnitTests.TestSetRoomStudent",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "\nКомната не найдена!\n",
+    "trace": "   at Services.StudentServices.setRoomStudent(Int32 id_student, Int32 id_room) in C:\\Users\\joker\\Desktop\\src\\Services\\Services\\StudentServices.cs:line 93\r\n   at UnitTestsBL.StudentServicesUnitTests.TestSetRoomStudent() in C:\\Users\\joker\\Desktop\\src\\UnitTestsBL\\UnitTestsBL\\StudentServicesUnitTests.cs:line 127\r\n   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)\r\n   at Xunit.Sdk.AsyncTestSyncContext.<>c__DisplayClass7_0.<Post>b__1(Object _) in /_/src/xunit.execution/Sdk/AsyncTestSyncContext.cs:line 75"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701579464936,
+  "stop": 1701579465216
+}

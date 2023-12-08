@@ -1,0 +1,59 @@
+{
+  "uuid": "7d5adbfb-3015-4b7e-ab23-675b8188fabd",
+  "historyId": "8ef78cafa4cacbce71d8012be8d51d4d",
+  "testCaseId": "6dfae6e40f61374af8403063776a46d5",
+  "fullName": "UnitTests:UnitTestsBL.StudentServicesUnitTests.TestChangeGroupStudent()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.StudentServicesUnitTests.TestChangeGroupStudent"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Services Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.StudentServicesUnitTests.TestChangeGroupStudent",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701578425422,
+  "stop": 1701578425427
+}

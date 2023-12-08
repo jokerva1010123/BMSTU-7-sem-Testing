@@ -1,0 +1,59 @@
+{
+  "uuid": "c7e1cb83-d326-49db-93f8-80e4a3c1385c",
+  "historyId": "3b39dd9054d43380385c4ff9de8a0c57",
+  "testCaseId": "0b4113a49b03732c19ca99bcfa3f5ab0",
+  "fullName": "UnitTests:UnitTestsBL.ThingServicesUnitTests.TestAddThing()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.ThingServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.ThingServicesUnitTests.TestAddThing"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.ThingServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Thing Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.ThingServicesUnitTests.TestAddThing",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1702035937355,
+  "stop": 1702035937359
+}

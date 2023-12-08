@@ -1,0 +1,60 @@
+{
+  "uuid": "8433d09b-8016-480b-aef7-a84acf218d20",
+  "historyId": "ddb07471e951ba9bfa88d1f1770041e9",
+  "testCaseId": "dfc7f68e7dac9b127db121772645e2da",
+  "fullName": "UnitTests:UnitTestsDA.UserDAUnitTests.TestGetUserFromLogin()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsDA.UserDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsDA.UserDAUnitTests.TestGetUserFromLogin"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsDA.UserDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsDA.UserDAUnitTests.TestGetUserFromLogin",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Object reference not set to an instance of an object.",
+    "trace": "   at UnitTestsDA.UserDAUnitTests.TestGetUserFromLogin() in C:\\Users\\joker\\Desktop\\src\\UnitTestsBL\\UnitTestsDA\\UserDAUnitTests.cs:line 27\r\n   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)\r\n   at Xunit.Sdk.AsyncTestSyncContext.<>c__DisplayClass7_0.<Post>b__1(Object _) in /_/src/xunit.execution/Sdk/AsyncTestSyncContext.cs:line 75"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701587535377,
+  "stop": 1701587535562
+}

@@ -1,0 +1,60 @@
+{
+  "uuid": "c470a625-df0b-4110-b46e-ecec8d4c2a5e",
+  "historyId": "2fc4b4e06bf3eb35e3d732ad9ac10e02",
+  "testCaseId": "2cb6306a6afd84076a4e07126e312c44",
+  "fullName": "UnitTests:UnitTestsBL.ThingServicesUnitTests.TestTranferStudentThing()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.ThingServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.ThingServicesUnitTests.TestTranferStudentThing"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.ThingServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Thing Services Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.ThingServicesUnitTests.TestTranferStudentThing",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "\nВещь не найдена!\n",
+    "trace": "   at Services.ThingServices.transferStudentThing(Int32 id_student, String codeThing) in C:\\Users\\joker\\Desktop\\src\\Services\\Services\\ThingServices.cs:line 81\r\n   at UnitTestsBL.ThingServicesUnitTests.TestTranferStudentThing() in C:\\Users\\joker\\Desktop\\src\\UnitTestsBL\\UnitTestsBL\\ThingServicesUnitTests.cs:line 121\r\n   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)\r\n   at Xunit.Sdk.AsyncTestSyncContext.<>c__DisplayClass7_0.<Post>b__1(Object _) in /_/src/xunit.execution/Sdk/AsyncTestSyncContext.cs:line 75"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701580686125,
+  "stop": 1701580686372
+}

@@ -1,0 +1,59 @@
+{
+  "uuid": "7eed4e59-14a1-4c33-a73a-3bfe9cec78cd",
+  "historyId": "7f4ee3d45b4dcf61b2f645308630b4bf",
+  "testCaseId": "783728faa91143578deb4b53b40017dd",
+  "fullName": "UnitTests:UnitTestsBL.UserServicesUnitTests.TestAddUser()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.UserServicesUnitTests.TestAddUser"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Services Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.UserServicesUnitTests.TestAddUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1699531588401,
+  "stop": 1699531588403
+}

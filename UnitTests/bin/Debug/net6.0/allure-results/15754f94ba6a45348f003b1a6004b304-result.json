@@ -1,0 +1,59 @@
+{
+  "uuid": "23be880b-bf83-46bd-9e3e-8083d42dcad2",
+  "historyId": "dc8604122ea412d51acbc586a969fba2",
+  "testCaseId": "a6b4a51989d3c406515444ec8ac3870b",
+  "fullName": "UnitTests:UnitTestsBL.StudentServicesUnitTests.TestGetIdStudentFromCode()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.StudentServicesUnitTests.TestGetIdStudentFromCode"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.StudentServicesUnitTests.TestGetIdStudentFromCode",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701602415232,
+  "stop": 1701602415233
+}

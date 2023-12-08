@@ -1,0 +1,60 @@
+{
+  "uuid": "73b4f95b-b41e-42bf-9302-de30921fc3a6",
+  "historyId": "f1286d98efd61a015b397438e8d53367",
+  "testCaseId": "6ab7aeed7b0766f5bf39f369e38c6959",
+  "fullName": "UnitTests:UnitTestsBL.StudentServicesUnitTests.TestChangeNameStudent()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.StudentServicesUnitTests.TestChangeNameStudent"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Services Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.StudentServicesUnitTests.TestChangeNameStudent",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "\nСтудента не удалось добавить!\n",
+    "trace": "   at Services.StudentServices.changeStudentName(Int32 id_student, String newName) in C:\\Users\\joker\\Desktop\\src\\Services\\Services\\StudentServices.cs:line 78\r\n   at UnitTestsBL.StudentServicesUnitTests.TestChangeNameStudent() in C:\\Users\\joker\\Desktop\\src\\UnitTestsBL\\UnitTestsBL\\StudentServicesUnitTests.cs:line 137\r\n   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)\r\n   at Xunit.Sdk.AsyncTestSyncContext.<>c__DisplayClass7_0.<Post>b__1(Object _) in /_/src/xunit.execution/Sdk/AsyncTestSyncContext.cs:line 75"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701578425572,
+  "stop": 1701578425766
+}

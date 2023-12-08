@@ -1,0 +1,60 @@
+{
+  "uuid": "4b8a5e43-2abd-4879-8c30-333e553ac719",
+  "historyId": "52255392758d1ed4fd944bca0038e044",
+  "testCaseId": "2ccb6d4f7968f23917ebff3304b64a90",
+  "fullName": "UnitTests:UnitTestsDA.StudentDAUnitTests.TestChangeRoom()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsDA.StudentDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsDA.StudentDAUnitTests.TestChangeRoom"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsDA.StudentDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsDA.StudentDAUnitTests.TestChangeRoom",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.Equal() Failure\r\nExpected: 3\r\nActual:   2",
+    "trace": "   at Xunit.Assert.Equal[T](T expected, T actual, IEqualityComparer`1 comparer) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 96\r\n   at Xunit.Assert.Equal[T](T expected, T actual) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 63\r\n   at UnitTestsDA.StudentDAUnitTests.TestChangeRoom() in C:\\Users\\joker\\Desktop\\src\\UnitTestsBL\\UnitTestsDA\\StudentDAUnitTests.cs:line 85\r\n   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)\r\n   at Xunit.Sdk.AsyncTestSyncContext.<>c__DisplayClass7_0.<Post>b__1(Object _) in /_/src/xunit.execution/Sdk/AsyncTestSyncContext.cs:line 75"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701588529953,
+  "stop": 1701588530133
+}

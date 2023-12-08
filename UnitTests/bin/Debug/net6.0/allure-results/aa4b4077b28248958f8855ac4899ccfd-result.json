@@ -1,0 +1,60 @@
+{
+  "uuid": "88db004b-8f21-40ac-a6d0-a7670690ded9",
+  "historyId": "f5dc7c86b636a02735c8864ed68c932b",
+  "testCaseId": "7a02ce6ea097f15b7406ac76f64f1894",
+  "fullName": "UnitTests:UnitTestsBL.UserServicesUnitTests.TestAddExistsUser()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.UserServicesUnitTests.TestAddExistsUser"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.UserServicesUnitTests.TestAddExistsUser",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.Throws() Failure\r\nExpected: typeof(Error.UserExistsException)\r\nActual:   (No exception was thrown)",
+    "trace": "   at Xunit.Assert.Throws(Type exceptionType, Exception exception) in /_/src/xunit.assert/Asserts/ExceptionAsserts.cs:line 226\r\n   at Xunit.Assert.Throws[T](Func`1 testCode) in /_/src/xunit.assert/Asserts/ExceptionAsserts.cs:line 48\r\n   at UnitTestsBL.UserServicesUnitTests.TestAddExistsUser() in C:\\Users\\joker\\Desktop\\src\\UnitTestsBL\\UnitTestsBL\\UserServicesUnitTests.cs:line 50"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701602309418,
+  "stop": 1701602309447
+}

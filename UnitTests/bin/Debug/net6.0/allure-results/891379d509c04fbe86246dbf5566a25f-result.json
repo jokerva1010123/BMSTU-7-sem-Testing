@@ -1,0 +1,59 @@
+{
+  "uuid": "40cbcfc4-c5c7-4699-9e59-1c3557ec897f",
+  "historyId": "9767782963451435ef763bf95926c271",
+  "testCaseId": "a84071e4cd90c9a060c911dbac3706ac",
+  "fullName": "UnitTests:UnitTestsBL.UserServicesUnitTests.TestUserExists()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.UserServicesUnitTests.TestUserExists"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.UserServicesUnitTests.TestUserExists",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701602309452,
+  "stop": 1701602309454
+}

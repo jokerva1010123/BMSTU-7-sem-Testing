@@ -1,0 +1,60 @@
+{
+  "uuid": "b9a1b192-deb1-4124-9b97-9b04c936444e",
+  "historyId": "61f5d9452116deb688598f8c2a882590",
+  "testCaseId": "c135bf4d62a8b312be571ecaefcd0881",
+  "fullName": "UnitTests:UnitTestsBL.StudentServicesUnitTests.TestSetRoomStudent()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsBL.StudentServicesUnitTests.TestSetRoomStudent"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsBL.StudentServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Services Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsBL.StudentServicesUnitTests.TestSetRoomStudent",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "\r\nExpected invocation on the mock once, but was 0 times: repo => repo.changeRoom(\"alex1\", 4)\r\n\r\nPerformed invocations:\r\n\r\n   Mock<IStudentDB:1> (repo):\r\n\r\n      IStudentDB.getStudentById(1)\r\n      IStudentDB.changeRoom(\"alex1IU7\", 4)\r\n",
+    "trace": "   at Moq.Mock.Verify(Mock mock, LambdaExpression expression, Times times, String failMessage) in /_/src/Moq/Mock.cs:line 331\r\n   at Moq.Mock`1.Verify[TResult](Expression`1 expression, Func`1 times) in /_/src/Moq/Mock`1.cs:line 1033\r\n   at UnitTestsBL.StudentServicesUnitTests.TestSetRoomStudent() in C:\\Users\\joker\\Desktop\\src\\UnitTestsBL\\UnitTestsBL\\StudentServicesUnitTests.cs:line 130\r\n   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)\r\n   at Xunit.Sdk.AsyncTestSyncContext.<>c__DisplayClass7_0.<Post>b__1(Object _) in /_/src/xunit.execution/Sdk/AsyncTestSyncContext.cs:line 75"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701579515513,
+  "stop": 1701579515741
+}

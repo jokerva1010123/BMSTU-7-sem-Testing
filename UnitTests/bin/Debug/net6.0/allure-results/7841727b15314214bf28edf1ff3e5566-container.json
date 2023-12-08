@@ -1,0 +1,12 @@
+{
+  "uuid": "32d74ba2-e26a-4d91-9784-24d900f7f84e",
+  "name": "UnitTestsBL.RoomServicesUnitTests",
+  "children": [
+    "1248bfde-851c-4a1a-929a-d45c3e8edc95"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1702035937207,
+  "stop": 1702035937331
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "4124eaa7-3a59-492b-acb6-8a43ebd32c0c",
+  "name": "UnitTestsBL.StudentServicesUnitTests",
+  "children": [
+    "167b8559-f0b6-47ff-85fb-b3b100ac6f0c"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1701602553201,
+  "stop": 1701602553205
+}

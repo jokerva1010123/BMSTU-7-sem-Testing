@@ -1,0 +1,59 @@
+{
+  "uuid": "e6ddf0b7-5c4a-4e30-9508-dd98646a0c04",
+  "historyId": "aee98b741d073ca95efae87ca35e0312",
+  "testCaseId": "fd3b6d011f957901eaddf95d10a59f33",
+  "fullName": "UnitTests:UnitTestsDA.ThingDAUnitTests.TestChangeRoomThing()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestsDA.ThingDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTestsDA.ThingDAUnitTests.TestChangeRoomThing"
+    },
+    {
+      "name": "package",
+      "value": "UnitTestsDA.ThingDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Thing DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTestsDA.ThingDAUnitTests.TestChangeRoomThing",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1701603179999,
+  "stop": 1701603180000
+}
