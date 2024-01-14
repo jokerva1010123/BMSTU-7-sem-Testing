@@ -1,0 +1,59 @@
+{
+  "uuid": "2c9e055b-108e-4b1d-bb70-ac6008333d21",
+  "historyId": "2c1dc37634f9f9bcb6dd1b8a3c4d64a7",
+  "testCaseId": "06f0bc28fa6084f213dd2ffb46941133",
+  "fullName": "IntegrationTests:IntegrationTests.IntTestStudent.TestGetRoomStudent()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.IntTestStudent"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.IntTestStudent.TestGetRoomStudent"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.IntTestStudent"
+    },
+    {
+      "name": "owner",
+      "value": "Viet Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.IntTestStudent.TestGetRoomStudent",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705262782931,
+  "stop": 1705262782949
+}

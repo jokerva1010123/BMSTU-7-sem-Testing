@@ -1,0 +1,59 @@
+{
+  "uuid": "b609bbce-7d58-40ab-860d-f9b2cee2ea01",
+  "historyId": "11f1329ae8c9fe7725c6625253946fd2",
+  "testCaseId": "12a05bcbcac3993bf6ea1cd3593c9587",
+  "fullName": "IntegrationTests:IntegrationTests.IntTestUserController.TestUserExists()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.IntTestUserController"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.IntTestUserController.TestUserExists"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.IntTestUserController"
+    },
+    {
+      "name": "owner",
+      "value": "Viet Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Controller Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.IntTestUserController.TestUserExists",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705262293762,
+  "stop": 1705262293765
+}

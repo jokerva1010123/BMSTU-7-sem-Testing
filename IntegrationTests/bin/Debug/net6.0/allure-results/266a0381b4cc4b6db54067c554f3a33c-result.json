@@ -1,0 +1,59 @@
+{
+  "uuid": "b43dc760-0e62-4e04-a537-2155805c9636",
+  "historyId": "ce11d4b1927605700f57a16087c485f8",
+  "testCaseId": "51634b8c7f6d1c7333d6a3905bd02163",
+  "fullName": "IntegrationTests:IntegrationTests.IntTestUser.TestUserExists()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.IntTestUser"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.IntTestUser.TestUserExists"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.IntTestUser"
+    },
+    {
+      "name": "owner",
+      "value": "Viet Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.IntTestUser.TestUserExists",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705262783077,
+  "stop": 1705262783079
+}

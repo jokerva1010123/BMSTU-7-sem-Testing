@@ -1,0 +1,59 @@
+{
+  "uuid": "d705896d-8794-4ed8-a766-35f898d17509",
+  "historyId": "a97a0845079854cf13b96d9e8c50fbbf",
+  "testCaseId": "e57a0a6f4a427dea9918a8e0e398863a",
+  "fullName": "IntegrationTests:IntegrationTests.IntTestRoom.TestGetNotExistsRoom()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.IntTestRoom"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.IntTestRoom.TestGetNotExistsRoom"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.IntTestRoom"
+    },
+    {
+      "name": "owner",
+      "value": "Viet Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Room Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.IntTestRoom.TestGetNotExistsRoom",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705262471553,
+  "stop": 1705262471556
+}

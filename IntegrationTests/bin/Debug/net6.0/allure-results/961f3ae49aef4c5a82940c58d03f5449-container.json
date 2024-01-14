@@ -1,0 +1,12 @@
+{
+  "uuid": "7b07a4a8-6c62-493d-b071-06530e0416b4",
+  "name": "IntegrationTests.IntTestRoom",
+  "children": [
+    "d705896d-8794-4ed8-a766-35f898d17509"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1705262471553,
+  "stop": 1705262471556
+}
