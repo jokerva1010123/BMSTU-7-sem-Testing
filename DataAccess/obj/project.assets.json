@@ -832,11 +832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joker\\Desktop\\src\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\BMSTU\\BMSTU-7-sem-Testing\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\joker\\Desktop\\src\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\joker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joker\\Desktop\\src\\DataAccess\\obj\\",
+      "outputPath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -853,8 +853,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\joker\\Desktop\\src\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\joker\\Desktop\\src\\Services\\Services.csproj"
+            "D:\\BMSTU\\BMSTU-7-sem-Testing\\Services\\Services.csproj": {
+              "projectPath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\Services\\Services.csproj"
             }
           }
         }

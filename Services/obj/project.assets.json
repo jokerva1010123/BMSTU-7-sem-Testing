@@ -109,11 +109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joker\\Desktop\\src\\Services\\Services.csproj",
+      "projectUniqueName": "D:\\BMSTU\\BMSTU-7-sem-Testing\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\joker\\Desktop\\src\\Services\\Services.csproj",
+      "projectPath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\joker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joker\\Desktop\\src\\Services\\obj\\",
+      "outputPath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joker\\AppData\\Roaming\\NuGet\\NuGet.Config",

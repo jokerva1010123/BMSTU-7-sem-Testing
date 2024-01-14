@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6rtg8xT9Qes4aijwyIRU5MFRIL/9IRP/ziJv3IBo5/WC4BT9Dcew4O2FuH6u14HAYBlH7DT+JcHcx7quCIjfog==",
+  "dgSpecHash": "UXmO2Jn765kdJwjnNrTypmUd4H8sNqYfHLXCaPTMHSIOL4JcRhRnHan+z9d4FZ/rQgX6e86p07LybwKtmYWdiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joker\\Desktop\\src\\Services\\Services.csproj",
+  "projectFilePath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joker\\.nuget\\packages\\nlog\\5.2.5\\nlog.5.2.5.nupkg.sha512",
     "C:\\Users\\joker\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",

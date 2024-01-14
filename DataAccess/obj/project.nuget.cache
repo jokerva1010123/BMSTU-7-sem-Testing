@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5r7b8u5o/AO9IDQysToD3S4BH3nCejLN5MyLd2w8hi6VU07pIHmBwMl2ZiEhhSRPe4t7MH+fexyNHvn2fyK9yg==",
+  "dgSpecHash": "58+4+U2xtXvoikKjMF1eGJqOaykUFHhXnKkwwa2fm+FVgIZ/wxyOHNuGYnbz/qGMUy9walnsVZ+cXJnK3U2jMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joker\\Desktop\\src\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joker\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\joker\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

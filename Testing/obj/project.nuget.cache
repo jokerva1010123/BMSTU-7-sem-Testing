@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+tb7i+9dTTl4gD64qxhK8E67RqMv9aMt9XKTXyEEzfzh+jKUCWtNA60FGgze2jb2nsgMt2FCwKWjZZe952BHng==",
+  "dgSpecHash": "6puNPbR2+wzedUv1hlr0p64xkHn5PBsPBJMpdCNfUeUT4gK6ktKRhVsRFkGJmoenO+7rcC7SK28soKvXQ0Xp1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joker\\Desktop\\src\\UnitTests\\Testing.csproj",
+  "projectFilePath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\Testing\\Testing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joker\\.nuget\\packages\\allure.net.commons\\2.10.0\\allure.net.commons.2.10.0.nupkg.sha512",
     "C:\\Users\\joker\\.nuget\\packages\\allure.xunit\\2.10.0\\allure.xunit.2.10.0.nupkg.sha512",

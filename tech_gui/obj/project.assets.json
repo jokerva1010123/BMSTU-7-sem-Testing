@@ -1289,11 +1289,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joker\\Desktop\\src\\tech_gui\\tech_gui.csproj",
+      "projectUniqueName": "D:\\BMSTU\\BMSTU-7-sem-Testing\\tech_gui\\tech_gui.csproj",
       "projectName": "tech_gui",
-      "projectPath": "C:\\Users\\joker\\Desktop\\src\\tech_gui\\tech_gui.csproj",
+      "projectPath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\tech_gui\\tech_gui.csproj",
       "packagesPath": "C:\\Users\\joker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joker\\Desktop\\src\\tech_gui\\obj\\",
+      "outputPath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\tech_gui\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1310,11 +1310,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\joker\\Desktop\\src\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\joker\\Desktop\\src\\DataAccess\\DataAccess.csproj"
+            "D:\\BMSTU\\BMSTU-7-sem-Testing\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\joker\\Desktop\\src\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\joker\\Desktop\\src\\Services\\Services.csproj"
+            "D:\\BMSTU\\BMSTU-7-sem-Testing\\Services\\Services.csproj": {
+              "projectPath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\Services\\Services.csproj"
             }
           }
         }

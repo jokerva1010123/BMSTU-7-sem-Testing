@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r/ahyYPviJ/cki/0uhc24Ge/vd6JPx+lRcGzLc9/b3fb2vW+RZIu7Gvx7hD/Eyj99lYQv86OPsoAY84LMAIcBw==",
+  "dgSpecHash": "zgT3Z7ZE3pxueYh2a8721AefQCI5sej96rD1Wl3qZrSWPMKTujHabQG4Q2/25/Ftlq0nVnFgrheWlUwt0kHqag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joker\\Desktop\\src\\tech_gui\\tech_gui.csproj",
+  "projectFilePath": "D:\\BMSTU\\BMSTU-7-sem-Testing\\tech_gui\\tech_gui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joker\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\joker\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
