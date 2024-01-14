@@ -104,16 +104,16 @@ jobs:
     #    docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml rm -f  #delete stopped containers
       run: docker-compose -f ${PWD}/IntegrationTests/docker/IntegrationContainer/docker-compose.yml down
 
-    # # E2E Test
-    # - name: Start E2E Container in Docker
-    #  # run: docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml up -d postgres-integration
-    #   run: docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml up -d
+    # E2E Test
+    - name: Start E2E Container in Docker
+     # run: docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml up -d postgres-integration
+      run: docker-compose -f ${PWD}/IntegrationTests/docker/IntegrationContainer/docker-compose.yml up -d
 
-    # - name: Run E2E Test
-    #   run: dotnet test ${PWD}/Testing/E2ETest/E2ETest.csproj
+    - name: Run E2E Test
+      run: dotnet test ${PWD}/E2E/E2E.csproj
 
-    # - name: Stop E2E Container in Docker
-    #   run: docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml down
+    - name: Stop E2E Container in Docker
+      run: docker-compose -f ${PWD}/IntegrationTests/docker/IntegrationContainer/docker-compose.yml down
 
 
 #     # Add  MSBuild to the PATH: https://github.com/microsoft/setup-msbuild
