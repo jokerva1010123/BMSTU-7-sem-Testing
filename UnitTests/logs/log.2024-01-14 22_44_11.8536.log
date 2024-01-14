@@ -1,0 +1,12 @@
+2024-01-14 22:44:11.8536|INFO|myAppLoggerRules|User gives thing to student successfully.
+2024-01-14 22:44:11.8536|INFO|myAppLoggerRules|User changes student's group successfully.
+2024-01-14 22:44:11.8536|INFO|myAppLoggerRules|User views all rooms.
+2024-01-14 22:44:11.9467|INFO|myAppLoggerRules|User gets student's room successfully.
+2024-01-14 22:44:11.9467|INFO|myAppLoggerRules|User returns thing from student successfully.
+2024-01-14 22:44:12.0197|INFO|myAppLoggerRules|User views all students successfully.
+2024-01-14 22:44:12.0197|INFO|myAppLoggerRules|User views student's things succesfully.
+2024-01-14 22:44:12.0197|INFO|myAppLoggerRules|User sets student's room successfully.
+2024-01-14 22:44:12.0197|INFO|myAppLoggerRules|User changes student's name successfully.
+2024-01-14 22:44:12.0407|INFO|myAppLoggerRules|User views student's information successfully.
+2024-01-14 22:44:12.0407|INFO|myAppLoggerRules|User adds new thing successfully.
+2024-01-14 22:44:12.0598|INFO|myAppLoggerRules|User adds new student successfully.

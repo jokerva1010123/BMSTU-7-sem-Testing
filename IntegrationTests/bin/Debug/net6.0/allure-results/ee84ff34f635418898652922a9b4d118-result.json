@@ -1,0 +1,59 @@
+{
+  "uuid": "22148c96-07c9-4c5b-a55c-50b2f54c667d",
+  "historyId": "cc181193dd88d4e30dd0ea2d8ecc82ab",
+  "testCaseId": "c48ab0d8ea714f1a0f8f9435d3a7066d",
+  "fullName": "IntegrationTests:IntegrationTests.IntTestUserController.TestAddUser()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.IntTestUserController"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.IntTestUserController.TestAddUser"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.IntTestUserController"
+    },
+    {
+      "name": "owner",
+      "value": "Viet Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Controller Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.IntTestUserController.TestAddUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261464648,
+  "stop": 1705261466737
+}

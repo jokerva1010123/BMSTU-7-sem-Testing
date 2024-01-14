@@ -1,0 +1,59 @@
+{
+  "uuid": "126bddb7-b988-4666-8be2-829ff932bbbb",
+  "historyId": "aabded247de0e9b74b0c762d20304c72",
+  "testCaseId": "e16ef42641f90f04d40cae14ec3d1847",
+  "fullName": "UnitTests:Testing.UnitTests.UnitTestsBL.RoomServicesUnitTests.TestGetNotExistsRoom()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.RoomServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.RoomServicesUnitTests.TestGetNotExistsRoom"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.RoomServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Room Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.RoomServicesUnitTests.TestGetNotExistsRoom",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261451222,
+  "stop": 1705261451583
+}
