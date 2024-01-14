@@ -44,10 +44,10 @@ jobs:
     
     - name: Restore dependencies TestBL
       run: dotnet restore
-      working-directory: UnitTests/UnitTestsBL
+      working-directory: UnitTests
     - name: Build TestBL
       run: dotnet build --no-restore                 
-      working-directory: UnitTests/UnitTestsBL
+      working-directory: UnitTests
     - name: Unit TestBL
       run: dotnet test UnitTestsBL --no-build --verbosity normal
       working-directory: src
