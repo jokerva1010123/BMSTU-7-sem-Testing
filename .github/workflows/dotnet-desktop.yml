@@ -86,7 +86,7 @@ jobs:
       run: docker-compose -f ${PWD}/Testing/docker/UnitContainer/docker-compose.yml up -d
 
     - name: Run Unit Tests
-      run: dotnet test ${PWD}/Testing/UnitTests/UnitTests.csproj
+      run: dotnet test ${PWD}/Testing/Testing.csproj
 
     - name: Stop Unit Container in Docker
       run: docker-compose -f ${PWD}/Testing/docker/UnitContainer/docker-compose.yml down
