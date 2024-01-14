@@ -1,0 +1,56 @@
+{
+  "uuid": "816469af-35ae-40d5-a4ef-d91fd54167a4",
+  "historyId": "206862a0da67a25fb7a8ffd7c58593f6",
+  "testCaseId": "acc09cc193b35d96cb8977c28094a4a5",
+  "fullName": "E2E:E2ETest.E2E.TestSetAndDeleteStudentRoom()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "E2ETest.E2E"
+    },
+    {
+      "name": "testMethod",
+      "value": "E2ETest.E2E.TestSetAndDeleteStudentRoom"
+    },
+    {
+      "name": "package",
+      "value": "E2ETest.E2E"
+    },
+    {
+      "name": "suite",
+      "value": "E2ETest"
+    }
+  ],
+  "links": [],
+  "name": "E2ETest.E2E.TestSetAndDeleteStudentRoom",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.Equal() Failure\r\nExpected: 4\r\nActual:   -1",
+    "trace": "   at Xunit.Assert.Equal[T](T expected, T actual, IEqualityComparer`1 comparer) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 96\r\n   at Xunit.Assert.Equal[T](T expected, T actual) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 63\r\n   at E2ETest.E2E.TestSetAndDeleteStudentRoom() in D:\\BMSTU\\BMSTU-7-sem-Testing\\E2E\\E2E.cs:line 45"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705264094859,
+  "stop": 1705264098230
+}

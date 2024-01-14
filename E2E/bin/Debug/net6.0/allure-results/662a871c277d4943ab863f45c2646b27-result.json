@@ -1,0 +1,55 @@
+{
+  "uuid": "1f032eca-270e-4280-8d25-c4325518a188",
+  "historyId": "206862a0da67a25fb7a8ffd7c58593f6",
+  "testCaseId": "acc09cc193b35d96cb8977c28094a4a5",
+  "fullName": "E2E:E2ETest.E2E.TestSetAndDeleteStudentRoom()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "E2ETest.E2E"
+    },
+    {
+      "name": "testMethod",
+      "value": "E2ETest.E2E.TestSetAndDeleteStudentRoom"
+    },
+    {
+      "name": "package",
+      "value": "E2ETest.E2E"
+    },
+    {
+      "name": "suite",
+      "value": "E2ETest"
+    }
+  ],
+  "links": [],
+  "name": "E2ETest.E2E.TestSetAndDeleteStudentRoom",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705264223715,
+  "stop": 1705264225448
+}

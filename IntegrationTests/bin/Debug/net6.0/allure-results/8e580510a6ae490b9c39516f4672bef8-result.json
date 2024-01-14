@@ -1,0 +1,59 @@
+{
+  "uuid": "d22cbcea-3c06-4c60-b59a-a8df4c7b65e9",
+  "historyId": "457d8da2ea620fd1b53b6967e35d3652",
+  "testCaseId": "0cbfbb3996e7659962420df2f246aec2",
+  "fullName": "IntegrationTests:IntegrationTests.IntTestRoom.TestGetAllRoom()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.IntTestRoom"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.IntTestRoom.TestGetAllRoom"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.IntTestRoom"
+    },
+    {
+      "name": "owner",
+      "value": "Viet Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Room Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.IntTestRoom.TestGetAllRoom",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705264084688,
+  "stop": 1705264086753
+}

@@ -1,0 +1,60 @@
+{
+  "uuid": "8da98cb9-1313-44f9-abbb-60645d272e38",
+  "historyId": "b516c184238edb6b38a45f5f6855c20c",
+  "testCaseId": "271d6fc32abb7ed1c1d62c1f92fec06e",
+  "fullName": "IntegrationTests:IntegrationTests.IntTestThing.TestAddThing()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.IntTestThing"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.IntTestThing.TestAddThing"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.IntTestThing"
+    },
+    {
+      "name": "owner",
+      "value": "Viet Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Thing Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.IntTestThing.TestAddThing",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "\nКод вещи уже существует!\n",
+    "trace": "   at Services.ThingServices.addThing(Thing newThing) in D:\\BMSTU\\BMSTU-7-sem-Testing\\Services\\Services\\ThingServices.cs:line 28\r\n   at IntegrationTests.IntTestThing.TestAddThing() in D:\\BMSTU\\BMSTU-7-sem-Testing\\IntegrationTests\\IntTestThing.cs:line 27"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705264087074,
+  "stop": 1705264087329
+}

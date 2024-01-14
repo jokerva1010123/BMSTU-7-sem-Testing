@@ -1,0 +1,59 @@
+{
+  "uuid": "517fa4b6-e2cf-40e6-bc8a-b0eff3d0989d",
+  "historyId": "861f499c1468910de776800af1bc1c67",
+  "testCaseId": "44d5f488fcc2a93cd1dbde9a9e85b88f",
+  "fullName": "UnitTests:Testing.UnitTests.UnitTestsBL.UserServicesUnitTests.TestGetUserFromLogin()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests.TestGetUserFromLogin"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests.TestGetUserFromLogin",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705264073497,
+  "stop": 1705264073500
+}
