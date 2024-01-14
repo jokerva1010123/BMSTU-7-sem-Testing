@@ -52,10 +52,5 @@ namespace UnitTestsDA
             context.ChangeTracker.Clear();
             context.Dispose();
         }
-        [CollectionDefinition("DBCollection")]
-        public class DBCollection : ICollectionFixture<DBFixture>
-        {
-
-        }
     }
 }
