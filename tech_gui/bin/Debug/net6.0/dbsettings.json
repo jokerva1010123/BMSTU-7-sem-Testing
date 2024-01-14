@@ -1,8 +1,0 @@
-{
-  "App": {
-    "UseDB": "PostgreSql"
-  },
-  "PostgreSql": {
-    "ConnectionString": "Server=localhost;Database=web;Username=postgres;Password=0612"
-  }
-}
