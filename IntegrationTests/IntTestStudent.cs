@@ -59,7 +59,7 @@ namespace IntegrationTests
             List<Student>? result = _fixture.studentServices.getAllStudent();
             //Assert
             Assert.Equal(2, result.Count);
-            Assert.All(result, item => Assert.InRange(item.Id_room, low: 1, high: 2));
+            Assert.All(result, item => Assert.InRange(item.Id_student, low: 1, high: 2));
         }
     }
 }
