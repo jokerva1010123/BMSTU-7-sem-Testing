@@ -1,0 +1,59 @@
+{
+  "uuid": "85e4b79a-4ed5-4325-8c38-d05ca9443389",
+  "historyId": "dd1721948a2099d5c4422cd1e3438e0f",
+  "testCaseId": "a893b02b4f152077f60e234ce3a63e5a",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests.TestGetIdStudentFromCode()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests.TestGetIdStudentFromCode"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests.TestGetIdStudentFromCode",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261003598,
+  "stop": 1705261003600
+}

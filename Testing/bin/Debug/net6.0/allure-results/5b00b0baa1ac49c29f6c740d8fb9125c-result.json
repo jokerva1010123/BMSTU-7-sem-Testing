@@ -1,0 +1,59 @@
+{
+  "uuid": "ea227141-a310-419e-b603-a78d2d78ebe5",
+  "historyId": "63bc1332796ec8f8fb9c41cdccfc5691",
+  "testCaseId": "507e565eec51e41d810c61f4e7870da0",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsBL.Mock.ThingServicesUnitTests.TestGetAllThing()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.ThingServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.ThingServicesUnitTests.TestGetAllThing"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.ThingServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Thing Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.Mock.ThingServicesUnitTests.TestGetAllThing",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261003559,
+  "stop": 1705261003561
+}

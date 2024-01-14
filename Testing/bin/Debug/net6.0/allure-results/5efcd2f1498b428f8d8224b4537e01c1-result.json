@@ -1,0 +1,59 @@
+{
+  "uuid": "57ea5c72-bae9-465e-8750-ec0c86a68041",
+  "historyId": "5800f02565d61716c869bbbd209efc5b",
+  "testCaseId": "8345920752c030e9cffb353ae5c534fa",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsDA.StudentDAUnitTests.TestChangeRoom()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsDA.StudentDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsDA.StudentDAUnitTests.TestChangeRoom"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsDA.StudentDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsDA.StudentDAUnitTests.TestChangeRoom",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261004459,
+  "stop": 1705261004475
+}

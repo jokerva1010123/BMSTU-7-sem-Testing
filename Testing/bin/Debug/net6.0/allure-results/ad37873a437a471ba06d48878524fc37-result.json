@@ -1,0 +1,59 @@
+{
+  "uuid": "09964be3-d578-4293-8358-4392c3eafcec",
+  "historyId": "e378e03d71219114cd0b04b5f6444cbf",
+  "testCaseId": "a1ea7f4c45a857877b8ffbb23df2e555",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests.TestGetRoomStudent()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests.TestGetRoomStudent"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests.TestGetRoomStudent",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261003559,
+  "stop": 1705261003565
+}

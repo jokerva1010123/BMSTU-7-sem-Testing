@@ -1,0 +1,59 @@
+{
+  "uuid": "0995334d-f9bd-4c36-86d3-e04aba64fd04",
+  "historyId": "c360c6601bbfc90d57c32aa68ee5cef8",
+  "testCaseId": "07d9256dfb9e727097b2a627e316b6a1",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests.TestChangeNameStudent()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests.TestChangeNameStudent"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.Mock.StudentServicesUnitTests.TestChangeNameStudent",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261003591,
+  "stop": 1705261003593
+}

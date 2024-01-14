@@ -1,0 +1,59 @@
+{
+  "uuid": "27500d13-d279-498c-8ada-de0f85a3c8b9",
+  "historyId": "1a2124b829fdf9d3e116645ecfe4ae7c",
+  "testCaseId": "6049db754ccc1ff1ad1a633182a710a7",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsDA.UserDAUnitTests.TestGetUserFromLogin()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsDA.UserDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsDA.UserDAUnitTests.TestGetUserFromLogin"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsDA.UserDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsDA.UserDAUnitTests.TestGetUserFromLogin",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261004543,
+  "stop": 1705261004551
+}

@@ -1,0 +1,59 @@
+{
+  "uuid": "76d38c85-d0a6-48e3-836c-9a1172fd22e5",
+  "historyId": "5b3802d8f3b435892ce2a077d57324a3",
+  "testCaseId": "73b356dd80b7bd3207e7e755748eea35",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests.TestGetIdUser()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests.TestGetIdUser"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests.TestGetIdUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261003269,
+  "stop": 1705261003272
+}

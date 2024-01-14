@@ -7,7 +7,7 @@ using ObjectMothers;
 using Services;
 using Xunit;
 
-namespace Testing.UnitTests.UnitTestsBL.Mock
+namespace Testing.UnitTests.UnitTestsBL
 {
     [AllureOwner("Viet_Anh")]
     [AllureSuite("Student Services Unit Tests")]

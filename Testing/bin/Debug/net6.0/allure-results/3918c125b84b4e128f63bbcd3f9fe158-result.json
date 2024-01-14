@@ -1,0 +1,59 @@
+{
+  "uuid": "98918461-62d7-4785-a1e4-048e90fc11e3",
+  "historyId": "cd9341ed9120cc1f48ce217e57596067",
+  "testCaseId": "6d91f0704b7b817abc08e776a6213565",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsBL.Mock.ThingServicesUnitTests.TestChangeRoomThing()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.ThingServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.ThingServicesUnitTests.TestChangeRoomThing"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.ThingServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Thing Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.Mock.ThingServicesUnitTests.TestChangeRoomThing",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261003589,
+  "stop": 1705261003596
+}

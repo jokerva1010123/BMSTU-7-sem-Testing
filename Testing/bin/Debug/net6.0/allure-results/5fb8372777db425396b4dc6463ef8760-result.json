@@ -1,0 +1,59 @@
+{
+  "uuid": "4d593ae8-eb33-4113-a44c-b88b68e98c3e",
+  "historyId": "a98c4b5f437203ff5b5df83856a6f59d",
+  "testCaseId": "7a0745a2c2bcd2504817676d1972b925",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsDA.StudentDAUnitTests.TestGetStudentByCode()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsDA.StudentDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsDA.StudentDAUnitTests.TestGetStudentByCode"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsDA.StudentDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsDA.StudentDAUnitTests.TestGetStudentByCode",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261004444,
+  "stop": 1705261004454
+}

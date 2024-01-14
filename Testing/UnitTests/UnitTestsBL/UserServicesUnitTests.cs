@@ -7,7 +7,7 @@ using Moq;
 using ObjectMothers;
 using Error;
 
-namespace Testing.UnitTests.UnitTestsBL.Mock
+namespace Testing.UnitTests.UnitTestsBL
 {
     [AllureOwner("Viet_Anh")]
     [AllureSuite("User Services Unit Tests")]

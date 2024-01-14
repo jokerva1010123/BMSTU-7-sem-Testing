@@ -11,3 +11,17 @@ C:\Users\joker\Desktop\src\Services\obj\Debug\net6.0\Services.dll
 C:\Users\joker\Desktop\src\Services\obj\Debug\net6.0\refint\Services.dll
 C:\Users\joker\Desktop\src\Services\obj\Debug\net6.0\Services.pdb
 C:\Users\joker\Desktop\src\Services\obj\Debug\net6.0\ref\Services.dll
+D:\BMSTU\BMSTU-7-sem-Testing\Services\bin\Debug\net6.0\NLog.config
+D:\BMSTU\BMSTU-7-sem-Testing\Services\bin\Debug\net6.0\Services.deps.json
+D:\BMSTU\BMSTU-7-sem-Testing\Services\bin\Debug\net6.0\Services.dll
+D:\BMSTU\BMSTU-7-sem-Testing\Services\bin\Debug\net6.0\Services.pdb
+D:\BMSTU\BMSTU-7-sem-Testing\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\BMSTU\BMSTU-7-sem-Testing\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\BMSTU\BMSTU-7-sem-Testing\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\BMSTU\BMSTU-7-sem-Testing\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\BMSTU\BMSTU-7-sem-Testing\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\BMSTU\BMSTU-7-sem-Testing\Services\obj\Debug\net6.0\Services.sourcelink.json
+D:\BMSTU\BMSTU-7-sem-Testing\Services\obj\Debug\net6.0\Services.dll
+D:\BMSTU\BMSTU-7-sem-Testing\Services\obj\Debug\net6.0\refint\Services.dll
+D:\BMSTU\BMSTU-7-sem-Testing\Services\obj\Debug\net6.0\Services.pdb
+D:\BMSTU\BMSTU-7-sem-Testing\Services\obj\Debug\net6.0\ref\Services.dll

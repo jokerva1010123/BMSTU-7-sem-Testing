@@ -1,0 +1,59 @@
+{
+  "uuid": "6beae5ee-f930-40b2-aee1-b69bf562e0ea",
+  "historyId": "b624db42790c098ef6e7033151f0baa1",
+  "testCaseId": "ec2b25f3755c7cf9ae6d0a06c2b505e0",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests.TestAddUser()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests.TestAddUser"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests.TestAddUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261003252,
+  "stop": 1705261003265
+}

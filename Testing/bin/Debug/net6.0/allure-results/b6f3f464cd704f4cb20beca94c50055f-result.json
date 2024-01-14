@@ -1,0 +1,59 @@
+{
+  "uuid": "eff6e289-d6cf-4df8-9688-4f2ec6b050b9",
+  "historyId": "d697c4f26585e67f200534f89ca662ae",
+  "testCaseId": "ee3d5bdebf5abfcfb4259bdf646e935a",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsDA.UserDAUnitTests.TestChangePassword()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsDA.UserDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsDA.UserDAUnitTests.TestChangePassword"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsDA.UserDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsDA.UserDAUnitTests.TestChangePassword",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261004553,
+  "stop": 1705261004624
+}

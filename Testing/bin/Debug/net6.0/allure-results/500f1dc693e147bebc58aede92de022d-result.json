@@ -1,0 +1,59 @@
+{
+  "uuid": "9051d7a6-a00a-4be0-a59e-a48373f91d74",
+  "historyId": "eb6811f71563c049b459ac32c6003705",
+  "testCaseId": "aad7f026289f77ef68b249c7b94cf595",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsDA.ThingDAUnitTests.TestChangeStudentThing()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsDA.ThingDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsDA.ThingDAUnitTests.TestChangeStudentThing"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsDA.ThingDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Thing DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsDA.ThingDAUnitTests.TestChangeStudentThing",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261004518,
+  "stop": 1705261004522
+}

@@ -1,0 +1,59 @@
+{
+  "uuid": "038588a0-3a97-4d87-9db4-e3100567f1ab",
+  "historyId": "c220ce983c450b3d6dd3e7294876b25e",
+  "testCaseId": "18d62ab5475e28bbe3c69bc09e0f14e8",
+  "fullName": "Testing:Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests.TestUserExists()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests.TestUserExists"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.Mock.UserServicesUnitTests.TestUserExists",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705261003242,
+  "stop": 1705261003244
+}
