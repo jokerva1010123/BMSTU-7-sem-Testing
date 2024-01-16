@@ -1,0 +1,59 @@
+{
+  "uuid": "7773422a-6d73-4203-97cf-0b6759f275cb",
+  "historyId": "cdb799abed83bc8b4f5f85ccbb2e9797",
+  "testCaseId": "ae9afb75ae3a7d6dbb7df9d87b4cc42f",
+  "fullName": "UnitTests:Testing.UnitTests.UnitTestsBL.UserServicesUnitTests.TestAddExistsUser()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests.TestAddExistsUser"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests.TestAddExistsUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705404421656,
+  "stop": 1705404421658
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "0e00df72-9f29-486f-ae94-4a882b51faae",
+  "name": "Testing.UnitTests.UnitTestsBL.ThingServicesUnitTests",
+  "children": [
+    "f6a08a03-c62b-4bab-8f6c-8cc2c7ce1e7d"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1705404421848,
+  "stop": 1705404421850
+}

@@ -1,0 +1,59 @@
+{
+  "uuid": "197b4e73-26f1-436f-9a4b-c9be9bf5f69b",
+  "historyId": "e0f817f40388c4e55987cd1b053bc08e",
+  "testCaseId": "efe11e4ad3bca9c155866e0325447fab",
+  "fullName": "IntegrationTests:IntegrationTests.IntTestUser.TestGetUserFromLogin()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.IntTestUser"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.IntTestUser.TestGetUserFromLogin"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.IntTestUser"
+    },
+    {
+      "name": "owner",
+      "value": "Viet Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.IntTestUser.TestGetUserFromLogin",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705404425332,
+  "stop": 1705404425333
+}

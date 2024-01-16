@@ -1,0 +1,60 @@
+{
+  "uuid": "87d3418c-5403-489d-bdf4-3f11a12f312f",
+  "historyId": "2c1dc37634f9f9bcb6dd1b8a3c4d64a7",
+  "testCaseId": "06f0bc28fa6084f213dd2ffb46941133",
+  "fullName": "IntegrationTests:IntegrationTests.IntTestStudent.TestGetRoomStudent()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.IntTestStudent"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.IntTestStudent.TestGetRoomStudent"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.IntTestStudent"
+    },
+    {
+      "name": "owner",
+      "value": "Viet Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.IntTestStudent.TestGetRoomStudent",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.Equal() Failure\r\nExpected: 2\r\nActual:   0",
+    "trace": "   at Xunit.Assert.Equal[T](T expected, T actual, IEqualityComparer`1 comparer) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 96\r\n   at Xunit.Assert.Equal[T](T expected, T actual) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 63\r\n   at IntegrationTests.IntTestStudent.TestGetRoomStudent() in D:\\BMSTU\\BMSTU-7-sem-Testing\\IntegrationTests\\IntTestStudent.cs:line 41"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705404425070,
+  "stop": 1705404425186
+}

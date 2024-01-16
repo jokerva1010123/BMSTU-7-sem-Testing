@@ -1,0 +1,59 @@
+{
+  "uuid": "ef860a5e-3c02-43b5-abc9-f170d361b227",
+  "historyId": "139aefbe0156fa5321fa39e010ddeba0",
+  "testCaseId": "72b326927358124c9414ce14b915480b",
+  "fullName": "IntegrationTests:IntegrationTests.IntTestThing.TestGetThing()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.IntTestThing"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.IntTestThing.TestGetThing"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.IntTestThing"
+    },
+    {
+      "name": "owner",
+      "value": "Viet Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Thing Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.IntTestThing.TestGetThing",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705404425286,
+  "stop": 1705404425291
+}

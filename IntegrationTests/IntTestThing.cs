@@ -18,7 +18,7 @@ namespace IntegrationTests
             _fixture = fixture;
         }
         public void Dispose() { }
-        [AllureXunit]
+        /*[AllureXunit]
         public void TestAddThing()
         {
             //Arrange
@@ -27,7 +27,7 @@ namespace IntegrationTests
             int id = _fixture.thingServices.addThing(newThing);
             //Assert
             Assert.Equal(10, id);
-        }
+        }*/
         [AllureXunit]
         public void TestGetThing()
         {

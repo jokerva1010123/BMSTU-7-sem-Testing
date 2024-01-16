@@ -1,0 +1,59 @@
+{
+  "uuid": "526b5365-320c-4818-a9fc-3d8d82bee6a1",
+  "historyId": "41741b068d9213afe24d991c5298c0af",
+  "testCaseId": "7d35d55b0781463d0d6980671e79eb2e",
+  "fullName": "UnitTests:Testing.UnitTests.UnitTestsBL.UserServicesUnitTests.TestGetIdUser()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests.TestGetIdUser"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "User Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.UserServicesUnitTests.TestGetIdUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705404421522,
+  "stop": 1705404421641
+}

@@ -33,8 +33,8 @@ namespace IntegrationTests
         public void TestGetRoomStudent()
         {
             //Arrange
-            int id_student = 1;
-            int id_room = 2;
+            int id_student = 2;
+            int id_room = 3;
             //Action
             int result = _fixture.studentServices.getRoomStudent(id_student);
             //Assert

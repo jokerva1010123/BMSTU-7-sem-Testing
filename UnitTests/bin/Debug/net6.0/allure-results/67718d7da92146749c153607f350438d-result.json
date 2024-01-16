@@ -1,0 +1,59 @@
+{
+  "uuid": "79ea9b5a-55b2-4260-83f0-f8a8a08f3a95",
+  "historyId": "215c1084f8b44d81e0c87137b5ecc981",
+  "testCaseId": "aa05c1829869a575f731a4a9ed857725",
+  "fullName": "UnitTests:Testing.UnitTests.UnitTestsBL.ThingServicesUnitTests.TestGetStundetThing()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "Testing.UnitTests.UnitTestsBL.ThingServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Testing.UnitTests.UnitTestsBL.ThingServicesUnitTests.TestGetStundetThing"
+    },
+    {
+      "name": "package",
+      "value": "Testing.UnitTests.UnitTestsBL.ThingServicesUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Viet_Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Thing Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "Testing.UnitTests.UnitTestsBL.ThingServicesUnitTests.TestGetStundetThing",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705404421838,
+  "stop": 1705404421843
+}

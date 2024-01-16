@@ -1,0 +1,59 @@
+{
+  "uuid": "412192d0-f393-45de-9b7a-d93323fa3b22",
+  "historyId": "8bb4e585420dfc4ec279a0a94e5e7661",
+  "testCaseId": "9f18d8cc922b2459c7ec072164b1bb6f",
+  "fullName": "IntegrationTests:IntegrationTests.IntTestStudent.TestGetIdStudentFromCode()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-U7CUG9M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.IntTestStudent"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.IntTestStudent.TestGetIdStudentFromCode"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.IntTestStudent"
+    },
+    {
+      "name": "owner",
+      "value": "Viet Anh"
+    },
+    {
+      "name": "suite",
+      "value": "Student Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.IntTestStudent.TestGetIdStudentFromCode",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705404425053,
+  "stop": 1705404425068
+}
